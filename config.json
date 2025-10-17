@@ -85,9 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "xingzi":{
+    "gszy":{
       "api":"https://xzybb1.com/api.php/provide/vod",
-      "name":"幸资"
+      "name":"光速资源"
     }
   }
 }
